@@ -42,7 +42,7 @@ Participated in the summer school on empirical research grounded in real-world e
 
 ### Development and Reform Bureau · Policy secondment
 
-Worked with government teams on economic and social indicators, the mid-year performance review, and planning for the Fifteenth Five-Year Plan. Conducted village and enterprise fieldwork and delivered an oral briefing to department leadership.
+Worked with government teams on economic and social indicators, the mid-year performance review, and planning for the Fifteenth Five-Year Plan. Conducted village and enterprise fieldwork and delivered an oral briefing to department leadership. The work was [covered by mainstream Chinese media](https://mp.weixin.qq.com/s/YXD07lr7lvH1h8sKZdjDaw).
 :::
 
 ::: {.timeline-item}
@@ -50,7 +50,15 @@ Worked with government teams on economic and social indicators, the mid-year per
 
 ### Policy advisory report
 
-Co-authored a confidential policy advisory report selected for internal provincial decision support in Sichuan, China.
+Co-authored a confidential policy advisory report which is adopted by provincial chiefs in China.
+:::
+
+::: {.timeline-item}
+<span class="timeline-year">2024</span>
+
+### Field study on characteristic industries in western China
+
+Studied local characteristic industries and prepared a policy brief and field research report.
 :::
 
 ::: {.timeline-item}
@@ -69,4 +77,3 @@ Worked as a junior investment manager in the Asset Management Department, suppor
 Worked as an assistant analyst of credit in the Bond Investment Business Department, conducting issuer, sector, and financial-risk analysis.
 :::
 :::
-

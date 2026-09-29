@@ -17,7 +17,7 @@ I am a PhD candidate in Applied Economics at Southwestern University of Finance 
 My research sits at the intersection of urban and transport economics, environmental and energy economics, empirical industrial organization, and public policy evaluation. I study how regulation, infrastructure, market competition, and fiscal and non-fiscal incentives shape technology adoption, consumer behavior, social welfare, and distributional outcomes.
 
 ::: {.hero-links}
-[Email](mailto:hl6731@nyu.edu){.button .primary}
+[hl6731@nyu.edu](mailto:hl6731@nyu.edu){.button .primary}
 [Google Scholar](https://scholar.google.com/citations?user=HzekXgUAAAAJ&hl=en){.button}
 [LinkedIn](https://www.linkedin.com/in/yuhan-liu-58b6593b2/){.button}
 :::
@@ -83,7 +83,3 @@ Jointly supervised PhD study in Civil and Urban Engineering.
 Bachelor of Economics in Theoretical Economics.
 :::
 :::
-
-## Methods
-
-Structural demand estimation · discrete choice and hybrid choice models · causal inference · counterfactual simulation · welfare and distributional analysis · stochastic frontier analysis · large-scale administrative and market data integration

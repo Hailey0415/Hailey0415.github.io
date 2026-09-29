@@ -66,14 +66,14 @@ Yuhan Liu and Elisabetta Cherchi.
 **Keywords:** electric vehicles; social welfare; evidence synthesis; cost-benefit analysis; environmental and health externalities; network integration
 :::
 
-## Policy research
+## Policy brief
 
 ::: {.paper}
 <span class="paper-status">Policy advisory report · 2025</span>
 
 ### New-energy-vehicle industry standardization
 
-Co-authored a confidential policy advisory report selected for internal provincial decision support in Sichuan, China.
+Co-authored a confidential policy advisory report which is adopted by provincial chiefs in China.
 
 **Keywords:** industrial policy; technical standards; regulatory governance; consumer protection; electric vehicles
 :::

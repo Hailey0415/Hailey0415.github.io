@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - files/Hailey_Yuhan_Liu_NYUAD_Academic_CV.pdf
 
 website:
   title: "Yuhan (Hailey) Liu"
@@ -15,7 +17,7 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: cv.qmd
+      - href: files/Hailey_Yuhan_Liu_NYUAD_Academic_CV.pdf
         text: CV
       - href: research.qmd
         text: Research
@@ -40,5 +42,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false
     smooth-scroll: true
     link-external-newwindow: true
