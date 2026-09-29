@@ -1,0 +1,72 @@
+---
+title: "News"
+description: "Conference, internship, teaching, and public-engagement updates"
+page-layout: full
+---
+
+<p class="page-lede">Selected conference, professional, and public-engagement activities.</p>
+
+## Conferences and academic activities
+
+::: {.timeline}
+::: {.timeline-item}
+<span class="timeline-year">2026</span>
+
+### Asia-Pacific Industrial Organization Conference
+
+**Accepted.**
+:::
+
+::: {.timeline-item}
+<span class="timeline-year">2024</span>
+
+### Second Annual Conference of the International Society for Energy Transition Studies
+
+Presented research on the impacts of the Belt and Road Initiative on energy efficiency.
+:::
+
+::: {.timeline-item}
+<span class="timeline-year">2024</span>
+
+### China Young Economist Society Summer School on Real-World Economic Research
+
+Participated in the summer school on empirical research grounded in real-world economic questions.
+:::
+:::
+
+## Professional and public engagement
+
+::: {.timeline}
+::: {.timeline-item}
+<span class="timeline-year">2025</span>
+
+### Development and Reform Bureau · Policy secondment
+
+Worked with government teams on economic and social indicators, the mid-year performance review, and planning for the Fifteenth Five-Year Plan. Conducted village and enterprise fieldwork and delivered an oral briefing to department leadership.
+:::
+
+::: {.timeline-item}
+<span class="timeline-year">2025</span>
+
+### Policy advisory report
+
+Co-authored a confidential policy advisory report selected for internal provincial decision support in Sichuan, China.
+:::
+
+::: {.timeline-item}
+<span class="timeline-year">2022</span>
+
+### Sichuan Port Investment Industry-Finance Investment
+
+Worked as a junior investment manager in the Asset Management Department, supporting macroeconomic and industry analysis, project screening, appraisal, and monitoring.
+:::
+
+::: {.timeline-item}
+<span class="timeline-year">2021</span>
+
+### China JIC Trust
+
+Worked as an assistant analyst of credit in the Bond Investment Business Department, conducting issuer, sector, and financial-risk analysis.
+:::
+:::
+

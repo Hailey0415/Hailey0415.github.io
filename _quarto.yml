@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yuhan (Hailey) Liu"
+  search: false
+  site-url: "https://hailey0415.github.io"
+  description: "Personal research website of Yuhan (Hailey) Liu, an applied economist working on urban and transport economics, environmental and energy economics, and public policy evaluation."
+  favicon: images/portrait.jpg
+  navbar:
+    background: light
+    foreground: dark
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: news.qmd
+        text: News
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/yuhan-liu-58b6593b2/"
+        aria-label: LinkedIn
+      - icon: mortarboard
+        href: "https://scholar.google.com/citations?user=HzekXgUAAAAJ&hl=en"
+        aria-label: Google Scholar
+      - icon: envelope
+        href: "mailto:hl6731@nyu.edu"
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Yuhan (Hailey) Liu"
+    right: "Built with Quarto and published on GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

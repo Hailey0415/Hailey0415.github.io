@@ -1,0 +1,79 @@
+---
+title: "Research"
+description: "Publications and working papers by Yuhan (Hailey) Liu"
+page-layout: full
+---
+
+<p class="page-lede">My research combines causal inference and structural modelling to study transport regulation, electric mobility, market competition, energy efficiency, and social welfare.</p>
+
+## Publication
+
+::: {.paper .featured-paper}
+<span class="paper-status">Published · 2025</span>
+
+### Effectiveness and Efficiency of Incentivizing Policies for New Energy Vehicles: From the Perspective of Powertrain Type
+
+Yuhan Liu, Yunyi Hu, and Xuemei Zheng. *Transportation Research Part A: Policy and Practice*, 199, 104530.
+
+This paper combines fixed-effects evidence, nested-logit demand estimation, instrumental variables, and counterfactual welfare analysis to evaluate China's electric-vehicle incentives across powertrain types.
+
+**Keywords:** electric vehicles; policy evaluation; structural demand; willingness to pay; counterfactual welfare
+
+[View publication](https://www.sciencedirect.com/science/article/pii/S0965856425001582){.paper-link}
+:::
+
+## Working papers
+
+::: {.paper}
+<span class="paper-status">Job Market Paper · Under review</span>
+
+### Price or Quantity? Second-Best Electric Vehicle Promotion under License-Plate Rationing
+
+Yuhan Liu, Xuemei Zheng, Zhonggen Mao, and Yunyi Hu.
+
+**Keywords:** license-plate rationing; electric vehicles; random-coefficients demand; triple differences; second-best policy; welfare
+:::
+
+::: {.paper}
+<span class="paper-status">Revise and Resubmit</span>
+
+### Price War, Perceived Quality, and Welfare: A Hybrid Choice Model of Electric Vehicle Demand
+
+Yuhan Liu, Xuemei Zheng, and Elisabetta Cherchi.
+
+**Keywords:** price competition; perceived quality; hybrid choice model; latent variables; consumer welfare; electric vehicles
+:::
+
+::: {.paper}
+<span class="paper-status">Under review</span>
+
+### Impacts of the Belt and Road Initiative on the Energy Efficiency of Related Countries
+
+Xuemei Zheng, Yuhan Liu, Eryu Ni, and Rabindra Nepal.
+
+**Keywords:** Belt and Road Initiative; total-factor energy efficiency; stochastic frontier analysis; staggered difference-in-differences; renewable energy
+
+[View preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7447720){.paper-link}
+:::
+
+::: {.paper}
+<span class="paper-status">Working paper</span>
+
+### Synthesizing and Monetizing the Social Welfare of Electric Vehicles: An Integrative Review across Transportation, Energy, and Economics
+
+Yuhan Liu and Elisabetta Cherchi.
+
+**Keywords:** electric vehicles; social welfare; evidence synthesis; cost-benefit analysis; environmental and health externalities; network integration
+:::
+
+## Policy research
+
+::: {.paper}
+<span class="paper-status">Policy advisory report · 2025</span>
+
+### New-energy-vehicle industry standardization
+
+Co-authored a confidential policy advisory report selected for internal provincial decision support in Sichuan, China.
+
+**Keywords:** industrial policy; technical standards; regulatory governance; consumer protection; electric vehicles
+:::

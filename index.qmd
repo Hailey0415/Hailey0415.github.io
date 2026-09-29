@@ -1,0 +1,89 @@
+---
+title: "About"
+description: "About Yuhan (Hailey) Liu"
+page-layout: full
+---
+
+<style>#title-block-header { display: none; }</style>
+
+::: {.hero}
+::: {.hero-copy}
+<p class="eyebrow">Applied economist · Abu Dhabi</p>
+
+# Yuhan (Hailey) Liu
+
+I am a PhD candidate in Applied Economics at Southwestern University of Finance and Economics and a jointly supervised PhD researcher in Civil and Urban Engineering at New York University Abu Dhabi.
+
+My research sits at the intersection of urban and transport economics, environmental and energy economics, empirical industrial organization, and public policy evaluation. I study how regulation, infrastructure, market competition, and fiscal and non-fiscal incentives shape technology adoption, consumer behavior, social welfare, and distributional outcomes.
+
+::: {.hero-links}
+[Email](mailto:hl6731@nyu.edu){.button .primary}
+[Google Scholar](https://scholar.google.com/citations?user=HzekXgUAAAAJ&hl=en){.button}
+[LinkedIn](https://www.linkedin.com/in/yuhan-liu-58b6593b2/){.button}
+:::
+:::
+
+::: {.hero-portrait}
+<img src="images/portrait.jpg" alt="Portrait of Yuhan (Hailey) Liu" class="portrait">
+:::
+:::
+
+## Research interests
+
+::: {.interest-grid}
+::: {.interest-card}
+### Urban and transport economics
+
+Travel demand, sustainable mobility, transport regulation, pricing, access constraints, and infrastructure policy.
+:::
+
+::: {.interest-card}
+### Environmental and energy economics
+
+Electric-vehicle adoption, energy efficiency, environmental externalities, and policy design.
+:::
+
+::: {.interest-card}
+### Empirical industrial organization
+
+Structural demand estimation, discrete choice models, market competition, and counterfactual simulation.
+:::
+
+::: {.interest-card}
+### Public policy evaluation
+
+Causal inference, welfare and distributional analysis, and evidence for government decision-making.
+:::
+:::
+
+## Education
+
+::: {.education-list}
+::: {.education-item}
+<span class="year">2022–2027</span>
+
+### Southwestern University of Finance and Economics
+
+Direct PhD Program in Applied Economics, Institute of Western China Economic Research. Expected degree conferral: June 2027.
+:::
+
+::: {.education-item}
+<span class="year">2025–2026</span>
+
+### New York University Abu Dhabi
+
+Jointly supervised PhD study in Civil and Urban Engineering.
+:::
+
+::: {.education-item}
+<span class="year">2018–2022</span>
+
+### Southwestern University of Finance and Economics
+
+Bachelor of Economics in Theoretical Economics.
+:::
+:::
+
+## Methods
+
+Structural demand estimation · discrete choice and hybrid choice models · causal inference · counterfactual simulation · welfare and distributional analysis · stochastic frontier analysis · large-scale administrative and market data integration
