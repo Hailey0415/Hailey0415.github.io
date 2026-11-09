@@ -159,7 +159,7 @@ Before pushing:
 - `quarto render` completes without errors.
 - The navbar contains About, CV, Research, and News in the intended order.
 - CV opens the approved PDF directly.
-- Email uses `mailto:hl6731@nyu.edu` and the address is visible where intended.
+- Email uses `mailto:youngforever0415@gmail.com` and the address is visible where intended.
 - LinkedIn and Google Scholar links are correct.
 - Publication and preprint links point to the approved pages.
 - No unapproved or confidential content has been exposed.
